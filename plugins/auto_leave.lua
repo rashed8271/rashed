@@ -1,7 +1,7 @@
 do
 -- Will leave the group if be added
 local function run(msg, matches)
-local bot_id = 177563453 -- your bot id
+local bot_id = 177777213 -- your bot id
    -- like local bot_id = 1234567
     if matches[1] == 'bye' and is_sudo(msg) then
        chat_del_user("chat#id"..msg.to.id, 'user#id'..bot_id, ok_cb, false)
