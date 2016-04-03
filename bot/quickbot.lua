@@ -318,7 +318,8 @@ function create_config( )
     "giphy",
     "pokedex",
     "share_contact",
-    "twitter_send"
+    "twitter_send",
+    "anti_bot"
     },
     sudo_users = {192765292,168980738,97422241},--Sudo users
     disabled_channels = {},
