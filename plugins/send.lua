@@ -2,7 +2,7 @@ do
 
 local function run(msg, matches)
   if matches[1] == "send" then
-  return "For @amirquick only !"
+  return "For sudo only !"
   end
     local file = matches[2]
     if is_sudo(msg) then
