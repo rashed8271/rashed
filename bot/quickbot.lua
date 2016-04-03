@@ -211,7 +211,6 @@ function create_config( )
     "lock_chat",
     "sms", 
     "txt2img",
-    "Chat",
     "lock_eng",
     "antisticker",
     "google_image",
