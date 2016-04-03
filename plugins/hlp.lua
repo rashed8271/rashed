@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'quickTeam Command List'.. [[ 
+  return 'ραяα∂υχ Command List'.. [[ 
 لیست دستورات :
 ⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙
 __________________________
@@ -119,8 +119,7 @@ Feedback [متن]
 ارسال نظر
 ⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙⚙
 _______________________________
-Writed by quickTeam
-Sudo: @AmirQuick Channel: @QuickGuardTEAM]]
+        ραяα∂υχ
 end
 
 return {
