@@ -97,7 +97,7 @@ end
  
 -- !help command
 local function telegram_help()
-  local text = "Quick Gurad Tools List:\n______________________________\n"
+  local text = "ραяα∂υχ Gurad Tools List:\n______________________________\n"
   -- Plugins names
   for name in pairsByKeys(plugins) do
     if plugins[name].hidden then
@@ -108,7 +108,7 @@ local function telegram_help()
   end
   text = text..'______________________________'
   text = text..'\n'..'You can use < helps > for view all items info or can use < help (name) > for view a item info'
-  text = text..'\n'..'Sudo: @AmirQuick Channel: @QuickGuardTEAM'
+  text = text..'\n'..'Sudo:@Xx_A_M_xX_bye_ethd  ραяα∂υχ'
   return text
 end
  
